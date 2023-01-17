@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    font-family: arial;
+    color: black;
+    }
+    h1{
+        background-color: white;
+        font-family: 'Times New Roman', Times, serif;
+        color:chocolate;
+    }
+    h2{
+        background-color: white;
+        font-family: 'Times New Roman', Times, serif;
+        color:darkblue;
+    }
+    ul li{
+        list-style-type:lower-roman;
+        color:green;
+       
+    }
+    .menu { width: 180px; }
+    .menu{
+        border: 1px solid #7C7C7C;
+        border-bottom: none;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        width: 180px;
+    }
+    .menu li{
+        background: #F4F4F4;
+        border-bottom: 1px solid #7C7C7C;
+        border-top: 1px solid #FFF;
+    }
+    .menu li a{
+        color:red;
+
+    }

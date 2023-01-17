@@ -1,0 +1,61 @@
+body {
+    background-color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    }
+    h1{
+        color:white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    table{
+       border-collapse: collapse; ;
+       border-style: double;
+       border-color: #333;
+       
+    }
+    th{
+        background-color:rgb(207, 207, 207);
+        text-align: center;
+        border-style: double;
+        font-weight:bold;
+    }
+    th.euro{
+        background:#E6F3FF url(./imagenes/euro.png) no-repeat left center; 
+        padding: 0 0.3em 0 1.2em;
+    }
+    th.dolar{
+        background:#E6F3FF url(./imagenes/dolar.png) no-repeat left center; 
+        padding: 0 0.3em 0 1.2em;
+    }
+    th.libra{
+        background:#E6F3FF url(./imagenes/libra.png) no-repeat left center; 
+        padding: 0 0.3em 0 1.2em;
+    }
+    th.yen{
+        background:#E6F3FF url(./imagenes/yen.png) no-repeat left center; 
+        padding: 0 0.3em 0 1.2em;
+    }
+    tr{
+        text-align: center;
+        border-style: double;
+        
+    }
+    td{
+        text-align: center;
+        border-style: double;   
+    }
+    td.columna{
+        text-align: center;
+        font-weight:bold;
+        font-family: Arial;
+        background-color:#E6F3FF;
+    }
+    tr.amarillo{
+        text-align: center;
+        background-color: #FFFFCC;
+    }
+   
+
+
+

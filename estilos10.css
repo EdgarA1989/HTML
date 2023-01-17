@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    font-family arial;
+    color: black;
+    }
+    h1{
+        color:cadetblue;
+    }
+    p strong{
+        color:red;
+    }
+    span.destacado{
+        color:gold;
+    }
+    h2{
+        color:blue;
+    }
+    p a{
+        color:red;
+    }
+    p a em{
+        color:blue; 
+    }
+    span.especial{
+        color: rgb(103, 0, 199);
+    }
+    table{
+        border-collapse: collapse;
+    }
+    th.especial{
+        color:gold;
+    }
+    th{
+        border: 1px solid black;
+        color:red;
+     
+    }
+    td{
+        border: 1px solid black;
+        color:green;
+    }
+    td strong{
+        color:gold;
+    }
+    caption{
+        color:transparent;
+    }
+    div#adicional{
+         color:rgb(103, 134, 48);
+    }
+    span#especial{
+        color:palevioletred;
+    }
+    div#adicional p a{
+        color:green;
+    }
